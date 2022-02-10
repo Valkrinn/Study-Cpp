@@ -1,8 +1,10 @@
 # Changelog
 started 06-Feb-2022
+installed Visual Studio 2022 Community 10-11 Feb-2022
 
 # Log
 - 06-Feb-2022 Project started
 - 07-Feb-2022 Cpp tutorial - Finished reading 0.1 and 0.2
 - 08-Feb-2022 Cpp tutorial - Finished reading 0.3 and 0.4
 - 09-Feb-2022 Cpp tutorial - Finished reading 0.5
+- 10-Feb-2022 Cpp tutorial - Finished reading 0.6, started installation of Visual Studio 2022 Community
