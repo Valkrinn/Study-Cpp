@@ -14,3 +14,4 @@ problems with Windows 10 SDK 13-Feb-2022
 - 15-Feb-2022 Cpp tutorial - Finished reading 0.8 and 0.9
 - 16-Feb-2022 Cpp tutorial - Finished reading 0.10
 - 02-Mar-2022 Cpp tutorial - Finished reading 0.11
+- 06-Mar-2022 Cpp tutorial - Finished reading 0.12, compiled test code
