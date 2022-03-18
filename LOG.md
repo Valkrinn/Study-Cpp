@@ -22,3 +22,4 @@ finished chapter 0 06-Mar-2022
 - 10-Mar-2022 Cpp tutorial - Finished reading 1.5
 - 15-Mar-2022 Cpp tutorial - Finished reading 1.6
 - 16-Mar-2022 Cpp tutorial - Finished reading 1.7
+- 17-Mar-2022 Cpp tutorial - Finished reading 1.8 and 1.9
