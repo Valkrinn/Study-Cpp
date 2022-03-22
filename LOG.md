@@ -3,6 +3,7 @@ started 06-Feb-2022
 installed Visual Studio 2022 Community 10-11 Feb-2022
 problems with Windows 10 SDK 13-Feb-2022
 finished chapter 0 06-Mar-2022
+finished chapter 1 22-Mar-2022
 
 # Log
 - 06-Feb-2022 Project started
@@ -25,3 +26,4 @@ finished chapter 0 06-Mar-2022
 - 17-Mar-2022 Cpp tutorial - Finished reading 1.8 and 1.9
 - 18-Mar-2022 Cpp tutorial - Finished reading 1.10
 - 21-Mar-2022 Cpp tutorial - Finished reading 1.11, compiled quiz code
+- 22-Mar-2022 Cpp tutorial - Finished reading 1.x, compiled quiz code
