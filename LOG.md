@@ -28,3 +28,4 @@ finished chapter 1 22-Mar-2022
 - 21-Mar-2022 Cpp tutorial - Finished reading 1.11, compiled quiz code
 - 22-Mar-2022 Cpp tutorial - Finished reading 1.x, compiled quiz code
 - 23-Mar-2022 Cpp tutorial - Finished reading 2.1
+- 28-Mar-2022 Cpp tutorial - Finished reading 2.2, compiled test code
